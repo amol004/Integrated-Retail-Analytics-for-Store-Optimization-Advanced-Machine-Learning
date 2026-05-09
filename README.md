@@ -1,5 +1,5 @@
 
-# Integrated Retail Analytics for Store Optimization : Advanced-Machine-Learning<h1 align="center">
+# Integrated Retail Analytics for Store Optimization : Advanced Machine Learning
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
