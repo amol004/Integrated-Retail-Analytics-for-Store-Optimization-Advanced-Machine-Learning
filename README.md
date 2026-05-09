@@ -1,6 +1,6 @@
-[README.md](https://github.com/user-attachments/files/27557197/README.md)
-# Integrated-Retail-Analytics-for-Store-Optimization-Advanced-Machine-Learning<h1 align="center">🛍️ Integrated Retail Analytics for Store Optimization and Demand Forecasting</h1>
-<h3 align="center">Capstone Project - Leveraging Data Science to Drive Retail Efficiency</h3>
+
+# Integrated Retail Analytics for Store Optimization : Advanced-Machine-Learning<h1 align="center">
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
